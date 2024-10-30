@@ -1,4 +1,6 @@
-/* Henry Nunez CS-350 Assignment 02  */
+/* Assignment 2
+	CS 350 Section 11
+  Henry Nunez    */
 
 /* 1. Show the name of each tournament included in the database. */
 MATCH (t:Tournament)
