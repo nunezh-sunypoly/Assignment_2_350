@@ -1,3 +1,5 @@
+/* Henry Nunez CS-350 Assignment 02  */
+
 /* 1. Show the name of each tournament included in the database. */
 MATCH (t:Tournament)
 RETURN t.name AS TournamentName;
